@@ -21,10 +21,10 @@ I greatly enjoy exploring potential solutions to problems by breaking them down 
 
 Makers Academy has equipped me with a working knoledge of the very best practices in modern software development.
 
-- Software development is not a solitary activity, but a team effort. I am a big fan of pair programming, which Makers Academy fully embraces, pairing with someone different every day. This helped develop me further develop strong teamworking and interpersonal skills in the context of coding.
-- I am constantly looking to extend my knowledge of Object-Oriented Programming, creating new systems using Behavior Driven Development, Test Driven Development and SOLID principles.
-- At Makers, I learned tht development should be seen as a craft. Using the red, green, refactor model, working code is just the first step, refactoring for simplicity and to allow other developers to understand and extend my code without resorting to modification is a key consideration.
-- Most crucially, I have a great curiosity and passion for technology. I enjoy independent and exploratory learning experimenting with new ideas and technologies as they arise in order to expand my skill set.
+- Software development is not a solitary activity, but a team effort. I am a big fan of pair programming, which Makers Academy fully embraces as evidenced by the fact that throughout the course we were asked to pair with someone different every day. This helped me further develop strong teamworking and interpersonal skills in the context of coding.
+- I am constantly looking to expand my knowledge of Object-Oriented Programming, creating new systems using Behavior Driven Development, Test Driven Development and SOLID principles.
+- At Makers, I learned that development should be seen as a craft. Using the red, green, refactor model, working code is just the first step, refactoring for simplicity and to allow other developers to understand and extend my code without resorting to modification is a key consideration.
+- Most crucially, I have a great curiosity and passion for technology. I enjoy independent and exploratory learning as well as experimenting with new ideas and technologies as they arise in order to expand my skill set.
 
 #### Code Examples
 
