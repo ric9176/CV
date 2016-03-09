@@ -2,7 +2,7 @@
 
 Digital Nomad and avid technologist, I have worked on a huge range of projects with a diverse range of people crossing both languages and continents. As a speaker of five languages and counting, I've been told I'm a great communicator and motivating to work with. 
 
-I recently decided to take the plunge into the web-develpment world, completing Makers Academy's bootcamp at the end of Febuary 2016. My primary motivation to get into the field was to equip myself with the skills needed to fully realise the potential of my English Skype Learning Platform, [English Tutors Live](www.englishtutorslive.com). Having previously worked on the content side of Digital marketing as a freelancer for businesses in LA, I felt it important to develop hard skills to be able to make the leap to becoming a true growth hacker. 
+I recently decided to take the plunge into the web-develpment world, completing Makers Academy's bootcamp at the end of Febuary 2016. My primary motivation to get into the field was to equip myself with the skills needed to fully realise the potential of my English Skype Learning Platform, [English Tutors Live](http://www.englishtutorslive.com). Having previously worked on the content side of Digital marketing as a freelancer for businesses in LA, I felt it important to develop hard skills to be able to make the leap to becoming a true growth hacker. 
 
 Currently I am very open to new opportunities in which I can harness my previously developed skills in growing a business while developing my new tech skills further. I am looking to be challenged by and learn from supportive, collaborative teammates in a friendly, creative and adventurous organisation.
 
