@@ -1,21 +1,21 @@
 ## Richard Moss
 
-Digital Nomad and avid technologist, I have worked on a huge range of projects with a diverse range of people crossing both languages and continents. As a speaker of five languages and counting, I've been told I'm a great communicator and motivating to work with. 
+Digital Nomad and avid technologist, I have worked on a variety of projects with a diverse range of people, crossing both languages and continents. As a speaker of five languages and counting, I've been told I'm a great communicator and motivating to work with. 
 
-I recently decided to take the plunge into the web-develpment world, completing Makers Academy's bootcamp at the end of Febuary 2016. My primary motivation to get into the field was to equip myself with the skills needed to fully realise the potential of my English Skype Learning Platform, [English Tutors Live](http://www.englishtutorslive.com). Having previously worked on the content side of Digital marketing as a freelancer for businesses in LA, I felt it important to develop hard skills to be able to make the leap to becoming a true growth hacker. 
+I recently decided to take the plunge into the web-develpment world, completing Makers Academy's bootcamp at the end of Febuary 2016. My primary motivation to get into the field was to equip myself with the skills needed to fully realise the potential of my English Skype learning platform, [English Tutors Live](http://www.englishtutorslive.com). Having previously worked on the content side of digital marketing as a freelancer for businesses in Los Angeles, CA, I felt it important to develop hard skills to be able to make the leap to becoming a true growth hacker. 
 
-Currently I am very open to new opportunities in which I can harness my previously developed skills in growing a business while developing my new tech skills further. I am looking to be challenged by and learn from supportive, collaborative teammates in a friendly, creative and adventurous organisation.
+Currently I am very open to new opportunities in which I can harness my previously developed skills in growing a business, while further developing my new tech skills. I am looking to be challenged by and learn from supportive, collaborative teammates in a friendly, creative and adventurous organisation.
 
 ## Skills
 
-#### Detail-oriented Creative Problem Solving
+#### Detail-oriented, Creative Problem Solving
 
-I greatly enjoy exploring potential solutions to problems by breaking them down into their simplest form and iterativly building the most succient solution using LEAN methodologies. 
+I greatly enjoy exploring potential solutions to problems by breaking them down into their simplest form and iteratively building the most succient solution using LEAN methodologies. 
 
-- I am a logical, calm thinker. When multiple, potentially interesting, options are available I am able to assess their suitability of solving the initial problem. This lets me choose the best tools for the job.
+- I am a logical, calm thinker. When multiple, potentially interesting options are available, I am able to assess their suitability in solving the initial problem. This lets me choose the best tools for the job.
 - I am persistent when facing adversity. Working across time zones and languages requires considerable flexibility and persistence. I have found this mind-set very applicable to code.
-- When facing a new problem, my first step and strongest ability is research. I esspecially excel at working in small teams to come up with creative solutions and ideas. Over my past experience working in SEO and marketing I have developed excellent Google Foo, proficiency with Googling specific technical issues and implementing solutions.
-- Solving a problem, especially if I am able to help someone else on the way, can be even more satisfying than everything working right first time!
+- When facing a new problem, my first step and strongest ability is research. I especially excel at working in small teams to come up with creative solutions and ideas. Over my past experience working in SEO and marketing, I have developed excellent Google Foo, proficiency with Googling specific technical issues and implementing solutions.
+- Solving a problem, especially if I am able to help someone else along the way, can be even more satisfying than everything working right the first time!
 
 #### Clear, clean code written the right way
 
@@ -23,8 +23,8 @@ Makers Academy has taught me the very best practices in modern software developm
 
 - Coding is not a solitary activity for me, but a team effort. I am a great fan of pair programming, and at Makers Academy I paired every day. This was a great opportunity for shared learning and teamwork.
 - I am very excited to extend my knowledge of Object-Oriented Programming, creating new systems using Behavior Driven Development, Test Driven Development and SOLID principles.
-- At Makers, development is seen as a true craft. Making it work is just the first step, and I am committed to refactoring to allow other developers understand and extend my code without resorting to modification.
-- Most crucially, I have a great curiosity and passion for code. I enjoy independent and exploratory learning, experimenting with new ideas so I can expand my skills.
+- At Makers, development is seen as a true craft. Making it work is just the first step, and I am committed to refactoring to allow other developers to understand and extend my code without resorting to modification.
+- Most crucially, I have a great curiosity and passion for code. I enjoy independent and exploratory learning as well as experimenting with new ideas to expand my skills.
 
 #### Code Examples
 
@@ -39,7 +39,7 @@ Makers Academy has taught me the very best practices in modern software developm
 
 #### Founder of English Tutors Live (2013 to present)
 
-EnglishTutorsLive is an online English learning community that connects teachers and students looking for intensive &     dynamic Skype English classes. Founder of the project, designed and implemented the ongoing web marketing plan based on knowledge of SEO copywriting and content optimization. Continuing to oversee and manage the growth of the online community and business direction.
+EnglishTutorsLive is an online English learning community that connects teachers and students looking for intensive and     dynamic Skype English classes. Founder of the project, designed and implemented the ongoing web marketing plan based on knowledge of SEO copywriting and content optimization. Continuing to oversee and manage the growth of the online community and business direction.
 
 #### Website Growth - Web Design & Internet Marketing Firm (2013 to 2015 - Los Angeles)
 
@@ -57,19 +57,19 @@ Working remotely with a range of responsibilities:
 
 #### Makers Academy (Nov 2015 to Feb 2016)
 
-- Intensive 12 week course at Europe's leading Web Developer bootcamp.  
+- Intensive 12-week course at Europe's leading Web Developer bootcamp  
 - Weekly paired-programming curriculum with individual weekend challenges
 
 #### University of Madrid (2008-2013) (Universidad Complutense de Madrid)
 
-- 5 year Masters degree in Political Science and Administration (in Spanish)
+- 5-year Masters degree in Political Science and Administration (in Spanish)
 - University of Oslo (2010-2011) Erasmus exchange studying International Relations and Norwegian
 
 #### Languages
 
 - English (People say I'm a good public speaker)
 - Spanish (Near Native proficiency, 5 years will do that)
-- Portuguese (Working proficiency, I have lived in Lisbon over a year)
+- Portuguese (Working proficiency, I lived in Lisbon for over a year)
 - Norwegian (Limited working proficiency, need to make more Norwegian friends!)
 - French (Limited speaking but good comprehension)
 - Italian (Similar to French but currently improving fast!)
@@ -79,7 +79,7 @@ Working remotely with a range of responsibilities:
 
 - CELTA (Cambridge certificate in English Language Teaching) 
 - Multiple Cousera certificates (I'm a big fan of e-learning)
-- RYA dingy instructor (Once upon a time I taught sailing)
+- RYA dingy instructor (Once upon a time, I taught sailing)
 
 
 ## Contact me
