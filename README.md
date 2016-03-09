@@ -19,7 +19,7 @@ I greatly enjoy exploring potential solutions to problems by breaking them down 
 
 #### Clean code, make it work -> make it right 
 
-Makers Academy has equipped me with a working knoledge of the very best practices in modern software development.
+Makers Academy has equipped me with a working knowledge of the very best practices in modern software development.
 
 - Software development is not a solitary activity, but a team effort. I am a big fan of pair programming, which Makers Academy fully embraces as evidenced by the fact that throughout the course we were asked to pair with someone different every day. This helped me further develop strong teamworking and interpersonal skills in the context of coding.
 - I am constantly looking to expand my knowledge of Object-Oriented Programming, creating new systems using Behavior Driven Development, Test Driven Development and SOLID principles.
@@ -30,7 +30,7 @@ Makers Academy has equipped me with a working knoledge of the very best practice
 
 | Github | Description | Technologies | See it live
 |-------------|-------------|-------------|-------------|
-[Hotelligence](https://github.com/ric9176/hotel_check_in) [Native App](https://github.com/ric9176/Estimote) | Two week project with [Chris Wynne](https://github.com/wynndow), [Gimi Qehaja](https://github.com/gimi-q), [Ed Kerry](https://github.com/edwardkerry), using smartphones and beacons to speed up the hotel check-process, with real-time database integration | AngularJS, Firebase, Estimote Beacons, Cordova, Ionic, tested with Protractor and Karma-Jasmine | [YouTube](https://www.youtube.com/watch?v=63FJoC8dxus)
+[Hotelligence web App](https://github.com/ric9176/hotel_check_in) [Native App](https://github.com/ric9176/Estimote) | Two week project with [Chris Wynne](https://github.com/wynndow), [Gimi Qehaja](https://github.com/gimi-q), [Ed Kerry](https://github.com/edwardkerry), using smartphones and beacons to speed up the hotel check-process, with real-time database integration | AngularJS, Firebase, Estimote Beacons, Cordova, Ionic, tested with Protractor and Karma-Jasmine | [YouTube](https://www.youtube.com/watch?v=63FJoC8dxus)
 [FilterCoffee](https://github.com/ric9176/filter_coffee) | A 3 day hackathon project with [Ed Kerry](https://github.com/edwardkerry), [Daniela] (), [Hamid] (), a web app built on Rails to provide remote workers with a "YELP like" platform where they can add and rate work locations such as co-working spaces and cafe's. | Ruby on Rails, Active Record, Devise, Google Maps API, Bootstrap
 [Instagram Challenge](https://github.com/ric9176/instagram-challenge) | Interesting for the time contraints, the challenge was to re-create instagram over a weekend. | Ruby on Rails, ActiveRecord, Omni-Auth, AWS, Bootstrap, tested with Rspec and Capybara. 
 [Rock, Paper, Scissors](https://github.com/ric9176/rps-challenge) | A thrilling battle of wits against humanity's ancient enemy: **The Computer**. | Ruby, Sinatra, tested with RSpec and Capybara. 
