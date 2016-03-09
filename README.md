@@ -17,14 +17,14 @@ I greatly enjoy exploring potential solutions to problems by breaking them down 
 - When facing a new problem, my first step and strongest ability is research. I especially excel at working in small teams to come up with creative solutions and ideas. Over my past experience working in SEO and marketing, I have developed excellent Google Foo, proficiency with Googling specific technical issues and implementing solutions.
 - Solving a problem, especially if I am able to help someone else along the way, can be even more satisfying than everything working right the first time!
 
-#### Clear, clean code written the right way
+#### Clean code, make it work -> make it right 
 
-Makers Academy has taught me the very best practices in modern software development.
+Makers Academy has equipped me with a working knoledge of the very best practices in modern software development.
 
-- Coding is not a solitary activity for me, but a team effort. I am a great fan of pair programming, and at Makers Academy I paired every day. This was a great opportunity for shared learning and teamwork.
-- I am very excited to extend my knowledge of Object-Oriented Programming, creating new systems using Behavior Driven Development, Test Driven Development and SOLID principles.
-- At Makers, development is seen as a true craft. Making it work is just the first step, and I am committed to refactoring to allow other developers to understand and extend my code without resorting to modification.
-- Most crucially, I have a great curiosity and passion for code. I enjoy independent and exploratory learning as well as experimenting with new ideas to expand my skills.
+- Software development is not a solitary activity, but a team effort. I am a big fan of pair programming, which Makers Academy fully embraces, pairing with someone different every day. This helped develop me further develop strong teamworking and interpersonal skills in the context of coding.
+- I am constantly looking to extend my knowledge of Object-Oriented Programming, creating new systems using Behavior Driven Development, Test Driven Development and SOLID principles.
+- At Makers, I learned tht development should be seen as a craft. Using the red, green, refactor model, working code is just the first step, refactoring for simplicity and to allow other developers to understand and extend my code without resorting to modification is a key consideration.
+- Most crucially, I have a great curiosity and passion for technology. I enjoy independent and exploratory learning experimenting with new ideas and technologies as they arise in order to expand my skill set.
 
 #### Code Examples
 
