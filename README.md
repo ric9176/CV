@@ -15,7 +15,7 @@ I greatly enjoy exploring potential solutions to problems by breaking them down 
 - I am a logical, calm thinker. When multiple, potentially interesting options are available, I am able to assess their suitability in solving the initial problem. This lets me choose the best tools for the job.
 - I am persistent when facing adversity. Working across time zones and languages requires considerable flexibility and persistence. I have found this mind-set very applicable to code.
 - When facing a new problem, my first step and strongest ability is research. I especially excel at working in small teams to come up with creative solutions and ideas. Over my past experience working in SEO and marketing, I have developed excellent Google Foo, proficiency with Googling specific technical issues and implementing solutions.
-- Solving a problem, especially if I am able to help someone else along the way, can be even more satisfying than everything working right the first time!
+- Solving a problem, especially if I am able to help someone else along the way, can be even more satisfying than everything working right the first time! 
 
 #### Clean code, make it work -> make it right 
 
@@ -24,7 +24,7 @@ Makers Academy has equipped me with a working knowledge of the very best practic
 - Software development is not a solitary activity, but a team effort. I am a big fan of pair programming, which Makers Academy fully embraces as evidenced by the fact that throughout the course we were asked to pair with someone different every day. This helped me further develop strong teamworking and interpersonal skills in the context of coding.
 - I am constantly looking to expand my knowledge of Object-Oriented Programming, creating new systems using Behavior Driven Development, Test Driven Development and SOLID principles.
 - At Makers, I learned that development should be seen as a craft. Using the red, green, refactor model, working code is just the first step, refactoring for simplicity and to allow other developers to understand and extend my code without resorting to modification is a key consideration.
-- Most crucially, I have a great curiosity and passion for technology. I enjoy independent and exploratory learning as well as experimenting with new ideas and technologies as they arise in order to expand my skill set.
+- Most crucially, I have a great curiosity and passion for technology. I enjoy independent and exploratory learning as well as experimenting with new ideas and technologies as they arise in order to expand my skill set. Since graduating I have been working on a number of projects with other developers and made open source contributions to further my experience, such as [e2e testing in Javascript](https://github.com/lathonez/clicker)
 
 #### Code Examples
 
