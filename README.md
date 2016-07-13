@@ -4,7 +4,11 @@ Digital Nomad and avid technologist, I have worked on a variety of projects with
 
 I recently decided to take the plunge into the web-develpment world, completing Makers Academy's bootcamp at the end of Febuary 2016. My primary motivation to get into the field was to equip myself with the skills needed to fully realise the potential of my English Skype learning platform, [English Tutors Live](http://www.englishtutorslive.com), now currently being developed as a collaborative [rails app](https://github.com/englishtutorslive/etl). Having previously worked on the content side of digital marketing as a freelancer for businesses in Los Angeles, CA, I felt it important to develop hard skills to be able to make the leap to becoming a true growth hacker. 
 
-Currently I am very open to new opportunities in which I can harness my previously developed skills in growing a business, while further developing my new tech skills. I am looking to be challenged by and learn from supportive, collaborative teammates in a friendly, creative and adventurous organisation.
+Since graduating I have been working on a number of projects with other developers and made open source contributions to further my experience, such as [e2e testing in Javascript](https://github.com/lathonez/clicker). I currently work at Rokk3rLabs in London as a web developer on a range of tech solutions, primarily for startups. 
+
+I'm always very open to new opportunities in which I can harness my previously developed skills in growing a business, while further developing my new tech skills. I'm looking to be challenged by and learn from supportive, collaborative teammates in a friendly, creative and adventurous organisation. 
+
+
 
 ## Skills
 
@@ -24,7 +28,7 @@ Makers Academy has equipped me with a working knowledge of the very best practic
 - Software development is not a solitary activity, but a team effort. I am a big fan of pair programming, which Makers Academy fully embraces as evidenced by the fact that throughout the course we were asked to pair with someone different every day. This helped me further develop strong teamworking and interpersonal skills in the context of coding.
 - I am constantly looking to expand my knowledge of Object-Oriented Programming, creating new systems using Behavior Driven Development, Test Driven Development and SOLID principles.
 - At Makers, I learned that development should be seen as a craft. Using the red, green, refactor model, working code is just the first step, refactoring for simplicity and to allow other developers to understand and extend my code without resorting to modification is a key consideration.
-- Most crucially, I have a great curiosity and passion for technology. I enjoy independent and exploratory learning as well as experimenting with new ideas and technologies as they arise in order to expand my skill set. Since graduating I have been working on a number of projects with other developers and made open source contributions to further my experience, such as [e2e testing in Javascript](https://github.com/lathonez/clicker).
+- Most crucially, I have a great curiosity and passion for technology. I enjoy independent and exploratory learning as well as experimenting with new ideas and technologies as they arise in order to expand my skill set. Recently I have been experimenting with several different technologies to see how they can all fit together, building a [wordpress theme from a bootstrap3](https://github.com/ric9176/bootstrap-to-wp-heroku) template and deploying to Heroku with S3. 
 
 #### Code Examples
 
