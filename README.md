@@ -48,9 +48,11 @@ The core technologies used are: Node.JS, PHP (laravel), React, Angular, Ionic, a
 
 #### Founder of English Tutors Live (2013 to present)
 
-EnglishTutorsLive is an online English learning community that connects teachers and students looking for intensive and     dynamic Skype English classes. Founder of the project, designed and implemented the ongoing web marketing plan based on knowledge of SEO copywriting and content optimization. Continuing to oversee and manage the growth of the online community and business direction.
+[EnglishTutorsLive](www.englishtutorslive.com) is an online English learning community that connects teachers and students looking for intensive and     dynamic Skype English classes. Founder of the project, designed and implemented the ongoing web marketing plan based on knowledge of SEO copywriting and content optimization. Continuing to oversee and manage the growth of the online community and business direction.
 
 #### Website Growth - Web Design & Internet Marketing Firm (2013 to 2015 - Los Angeles)
+
+[Website Growth](www.websitegrowth.com) is a full-service web design and digital marketing consultant company. They specialize in all aspects of online growth including web design for mobile and desktop client bases, utilizing content marketing, social media marketing, mobile apps, SEO and more.
 
 Working remotely with a range of responsibilities:
 - Wordpress web development 
