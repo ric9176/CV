@@ -41,6 +41,11 @@ Makers Academy has equipped me with a working knowledge of the very best practic
 
 ## Relevant Experience 
 
+#### Rokk3r Labs - Junior Developer (May 2016 to present)
+
+[Rokk3r Labs](http://www.rokk3rlabs.com/) teams up with aspiring entrepreneurs as a technology focussed business partner, in the process cobuilding incredible companies. 
+The core technologies used are: Node.JS, PHP (laravel), React, Angular, Ionic, and React Native.
+
 #### Founder of English Tutors Live (2013 to present)
 
 EnglishTutorsLive is an online English learning community that connects teachers and students looking for intensive and     dynamic Skype English classes. Founder of the project, designed and implemented the ongoing web marketing plan based on knowledge of SEO copywriting and content optimization. Continuing to oversee and manage the growth of the online community and business direction.
