@@ -53,7 +53,7 @@ EnglishTutorsLive is an online English learning community that connects teachers
 #### Website Growth - Web Design & Internet Marketing Firm (2013 to 2015 - Los Angeles)
 
 Working remotely with a range of responsibilities:
-- Wordpress web development (non code based)
+- Wordpress web development 
 - SEO copywriting
 - content optimization
 - content marketing
