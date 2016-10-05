@@ -4,7 +4,7 @@ Digital Nomad and avid technologist, I have worked on a variety of projects with
 
 I recently decided to take the plunge into the web-develpment world, completing Makers Academy's bootcamp at the end of Febuary 2016. My primary motivation to get into the field was to equip myself with the skills needed to fully realise the potential of my English Skype learning platform, [English Tutors Live](http://www.englishtutorslive.com), now currently being developed as a collaborative [rails app](https://github.com/englishtutorslive/etl). Having previously worked on the content side of digital marketing as a freelancer for businesses in Los Angeles, CA, I felt it important to develop hard skills to be able to make the leap to becoming a true growth hacker. 
 
-Since graduating I have been working on a number of projects with other developers and made open source contributions to further my experience, such as [e2e testing in Javascript](https://github.com/lathonez/clicker). I have worked as a developer in a couple of positions, at Rokk3rLabs as a developer(May-Sept 2016) on tech solutions for startups, and currently at Blue Shift Coding as a developer and Javascript coach. 
+Since graduating I have been working on a number of projects with other developers and made open source contributions to further my experience, such as [e2e testing in Javascript](https://github.com/lathonez/clicker). I have worked as a developer in a couple of positions, at [Rokk3rLabs](http://www.rokk3rlabs.com/) as a developer on tech solutions for startups, and currently at [blue{shift}](http://blueshiftcoding.com/) as a developer and Javascript coach. 
 
 I'm always very open to new opportunities in which I can harness my previously developed skills in growing a business, while further developing my new tech skills. I'm looking to be challenged by and learn from supportive, collaborative teammates in a friendly, creative and adventurous organisation. 
 
@@ -41,7 +41,7 @@ Makers Academy has equipped me with a working knowledge of the very best practic
 
 ## Relevant Experience 
 
-#### Rokk3r Labs - Junior Developer (May 2016 to present)
+#### Rokk3r Labs - Junior Developer (May 2016 to September 2016)
 
 [Rokk3r Labs](http://www.rokk3rlabs.com/) teams up with aspiring entrepreneurs as a technology focussed business partner, in the process cobuilding incredible companies. 
 The core technologies used are: Node.JS, PHP (laravel), React, Angular, Ionic, and React Native.
