@@ -41,6 +41,10 @@ Makers Academy has equipped me with a working knowledge of the very best practic
 
 ## Relevant Experience 
 
+#### blue{shift} - Developer and JavaScript coach (october 2016 to present)
+
+[blue{shift}](http://blueshiftcoding.com/) is West London’s premier coding school. Founded in 2013  with the aim of teaching children aged 5 to 15 a creative approach to coding. I currently develop and coach the JavaScript course at Seconday level and collaborate on developing a learning platform.
+
 #### Rokk3r Labs - Junior Developer (May 2016 to September 2016)
 
 [Rokk3r Labs](http://www.rokk3rlabs.com/) teams up with aspiring entrepreneurs as a technology focussed business partner, in the process cobuilding incredible companies. 
