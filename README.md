@@ -4,7 +4,7 @@ Digital Nomad and avid technologist, I have worked on a variety of projects with
 
 I recently decided to take the plunge into the web-develpment world, completing Makers Academy's bootcamp at the end of Febuary 2016. My primary motivation to get into the field was to equip myself with the skills needed to fully realise the potential of my English Skype learning platform, [English Tutors Live](http://www.englishtutorslive.com), now currently being developed as a collaborative [rails app](https://github.com/englishtutorslive/etl). Having previously worked on the content side of digital marketing as a freelancer for businesses in Los Angeles, CA, I felt it important to develop hard skills to be able to make the leap to becoming a true growth hacker. 
 
-Since graduating I have been working on a number of projects with other developers and made open source contributions to further my experience, such as [e2e testing in Javascript](https://github.com/lathonez/clicker). I have worked as a developer in a couple of positions, at [Rokk3rLabs](http://www.rokk3rlabs.com/) as a junior dev on tech solutions for startups, and currently at [blue{shift}](http://blueshiftcoding.com/) as a developer and JavaScript coach. 
+Since graduating I have been working on a number of projects with other developers and made open source contributions to further my experience, such as [e2e testing in Javascript](https://github.com/lathonez/clicker). I have worked as a developer in a few positions, at [Rokk3rLabs](http://www.rokk3rlabs.com/) as a junior dev on tech solutions for startups, [Airsorted](http://www.airsorted.com) as a front-end engineer and currently at [blue{shift}](http://blueshiftcoding.com/) as a developer and JavaScript coach.
 
 I'm always very open to new opportunities in which I can harness my previously developed skills in growing a business, while further developing my new tech skills. I'm looking to be challenged by and learn from supportive, collaborative teammates in a friendly, creative and adventurous organisation. 
 
@@ -45,6 +45,14 @@ Makers Academy has equipped me with a working knowledge of the very best practic
 
 [blue{shift}](http://blueshiftcoding.com/) is West London’s premier coding school. Founded in 2013  with the aim of teaching children aged 5 to 15 a creative approach to coding. I currently develop and coach the JavaScript course at Seconday level and collaborate on developing a learning platform.
 
+#### Airsorted - Front-end engineer (December 2016 to Febuary 2017)
+
+[Airsorted](http://airsorted.com/) makes hosting on Airbnb Hassle-free. They are an Airbnb management company using technology to create infrastructure for the fast-growing sharing community.
+
+I worked primarily on maintaing and upgrading the public facing website(Flask), implmenting UI changes and building our full e2e testing with selenium/pytest to ensure an effective user experience. 
+
+Core technologies include: Python Flask, Ruby on Rails, React-Redux
+
 #### Rokk3r Labs - Junior Developer (May 2016 to September 2016)
 
 [Rokk3r Labs](http://www.rokk3rlabs.com/) teams up with aspiring entrepreneurs as a technology focussed business partner, in the process cobuilding incredible companies. 
@@ -52,7 +60,7 @@ The core technologies used are: Node.JS, PHP (laravel), React, Angular, Ionic, a
 
 #### Founder of English Tutors Live (2013 to present)
 
-[EnglishTutorsLive](www.englishtutorslive.com) is an online English learning community that connects teachers and students looking for intensive and     dynamic Skype English classes. Founder of the project, designed and implemented the ongoing web marketing plan based on knowledge of SEO copywriting and content optimization. Continuing to oversee and manage the growth of the online community and business direction.
+[EnglishTutorsLive](www.englishtutorslive.com) is an online English learning community that connects teachers and students looking for intensive and dynamic Skype English classes. Founder of the project, designed and implemented the ongoing web marketing plan based on knowledge of SEO copywriting and content optimization. Continuing to oversee and manage the growth of the online community and business direction.
 
 #### Website Growth - Web Design & Internet Marketing Firm (2013 to 2015 - Los Angeles)
 
