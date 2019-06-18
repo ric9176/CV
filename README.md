@@ -2,9 +2,7 @@
 
 Digital Nomad and avid technologist, I have worked on a variety of projects with a diverse range of people, crossing both languages and continents. As a speaker of five languages and counting, I've been told I'm a great communicator and motivating to work with. 
 
-I decided to take the full plunge into the web-develpment world in 2015, completing Makers Academy's bootcamp. My primary motivation to get back into the field was to equip myself with the skills needed to fully realise the potential of my English Skype learning platform, [English Tutors Live](http://www.englishtutorslive.com), now currently being developed as a collaborative [rails app](https://github.com/englishtutorslive/etl). Having previously worked on the content side of digital marketing as a freelancer for businesses in Los Angeles, CA, I felt it important to further develop my technical skills in order to make the leap to becoming a true growth hacker. 
-
-Since graduating I have been working on a number of projects with other developers and made open source contributions to further my experience, such as [e2e testing in Javascript](https://github.com/lathonez/clicker). I have worked as a developer in a few positions, at [Rokk3rLabs](http://www.rokk3rlabs.com/) as a junior dev on tech solutions for startups, [Airsorted](http://www.airsorted.com) as a front-end engineer and currently at [blue{shift}](http://blueshiftcoding.com/) as a developer & JavaScript coach. Currently I'm a front-end engineer and react ecosystem trainer at [LeanJS](https://leanjs.com/).
+As a serial entrepreneur passionate about teaching and mentoring. I founded an online English school in 2012, and have not stopped, jumping into the Edtech world teaching professional Developers with [React GraphQL Academy](https://reactgraphql.academy/) since 2017. The last couple years I've been a lead coach and organizer of the public trainings in addition to delivering onsite training for professional devs at top companies. In addition to coaching I also managed the build and technical implementation of both the branded site and materials for the in person courses. I've worked with and helped build a team spanning marketing/UX, sales, anyalytics and developers, also mentoring multiple junior devs and running the coach community. I love giving back to the developer community and co-run the [JavaScript Lisbon](https://www.meetup.com/JavaScript-Lisbon/) meetup in addition to speaking at events across Europe.
 
 I'm always open to new opportunities and collaborations in which I can harness my previously developed skills in growing a business, while further developing my new tech skills. I love being challenged by and learning from supportive, collaborative teammates in a friendly, creative and adventurous organisation. 
 
@@ -41,7 +39,11 @@ Makers Academy has equipped me with a working knowledge of the very best practic
 
 ## Relevant Experience 
 
-#### blue{shift} - Developer and JavaScript coach (october 2016 to present)
+#### React GraphQL Academy (May 2017 - current)
+
+#### LeanJS (May 2017 - current)
+
+#### blue{shift} - Developer and JavaScript coach (october 2016 to 2017)
 
 [blue{shift}](http://blueshiftcoding.com/) is West London’s premier coding school. Founded in 2013  with the aim of teaching children aged 5 to 15 a creative approach to coding. I currently develop and coach the JavaScript course at Seconday level and collaborate on developing a learning platform.
 
@@ -58,7 +60,7 @@ Core technologies include: Python Flask, Ruby on Rails, React-Redux
 [Rokk3r Labs](http://www.rokk3rlabs.com/) teams up with aspiring entrepreneurs as a technology focussed business partner, in the process cobuilding incredible companies. 
 The core technologies used are: Node.JS, PHP (laravel), React, Angular, Ionic, and React Native.
 
-#### Founder of English Tutors Live (2013 to present)
+#### Founder of English Tutors Live (2013 to 2016)
 
 [EnglishTutorsLive](www.englishtutorslive.com) is an online English learning community that connects teachers and students looking for intensive and dynamic Skype English classes. Founder of the project, designed and implemented the ongoing web marketing plan based on knowledge of SEO copywriting and content optimization. Continuing to oversee and manage the growth of the online community and business direction.
 
