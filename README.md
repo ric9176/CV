@@ -1,6 +1,6 @@
 ## Richard Moss
 
-Digital Nomad and avid technologist, I have worked on a variety of projects with a diverse range of people, crossing both languages and continents. As a speaker of five languages and counting, I've been told I'm a great communicator and motivating to work with. 
+Digital Nomad and avid technologist, I have worked on a variety of projects with a diverse range of people, crossing technologies, languages, and continents. As a speaker of five languages and counting, I've been told I'm a great communicator and motivating to work with. 
 
 
 As an entrepreneur passionate about teaching and mentoring, I founded an online English school in 2012, and since then jumped into the tech world as a software engineer in roles at a diverse range of startups before my current role running trainings and coaching professional developers with [React GraphQL Academy](https://reactgraphql.academy/)(RGA). As a software engineer I have become highly specialized in the React ecosystem and confident as a solution architect, having been the lead developer on several React projects such as Boston University’s renowned [AGNI journal](https://agnionline.bu.edu/). My expertise and stack preference is React -> GraphQL -> MongoDB / Firebase -> Serverless (Google Cloud), but I’m also proficient and have experience in many others in both JavaScript and other languages including (Ruby, Python, PHP), and always looking to expand. 
