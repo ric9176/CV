@@ -2,7 +2,9 @@
 
 Digital Nomad and avid technologist, I have worked on a variety of projects with a diverse range of people, crossing both languages and continents. As a speaker of five languages and counting, I've been told I'm a great communicator and motivating to work with. 
 
-As a serial entrepreneur passionate about teaching and mentoring. I founded an online English school in 2012, and have not stopped, jumping into the Edtech world teaching professional Developers with [React GraphQL Academy](https://reactgraphql.academy/) since 2017. The last couple years I've been a lead coach and organizer of the public trainings in addition to delivering onsite training for professional devs at top companies. In addition to coaching I also managed the build and technical implementation of both the branded site and materials for the in person courses. I've worked with and helped build a team spanning marketing/UX, sales, anyalytics and developers, also mentoring multiple junior devs and running the coach community. I love giving back to the developer community and co-run the [JavaScript Lisbon](https://www.meetup.com/JavaScript-Lisbon/) meetup in addition to speaking at events across Europe.
+
+As an entrepreneur passionate about teaching and mentoring, I founded an online English school in 2012, and since then jumped into the tech world as a software engineer in roles at a diverse range of startups before my current role running and coaching professional Developers with [React GraphQL Academy](https://reactgraphql.academy/). As a software engineer I have become highly specialized in the React ecosystem and confident as a solution architect, having been the lead developer on several React projects such as Boston University’s renowned [AGNI journal](https://agnionline.bu.edu/). My expertise and stack preference is React -> GraphQL -> MongoDB / Firebase -> Serverless (google cloud), but I’m also proficient and have experience in many others in both JavaScript and other languages including (Ruby, Python, PHP), and always looking to expand. The last couple of years I've been a lead coach and organizer of the public trainings of RGA in addition to delivering onsite training for professional devs at top companies, both coaching and advising developer leads on best practice patterns and implementations for React and its associated libraries. In addition to coaching and business development, I also lead the team on the build and technical implementation of both the branded site and materials for the in person courses. I've worked with and helped build a team spanning marketing/UX, sales, analytics and developers, while also mentoring multiple junior devs and running the coach community. I love giving back to the developer community and co-run the [JavaScript Lisbon](https://www.meetup.com/JavaScript-Lisbon/) and [JavaScript London](https://www.meetup.com/JavaScript-London/) meetup in addition to speaking at events across Europe, including in the Netherlands, Croatia and Portugal, among others. I also write content on Medium and RGA blog in my free time and have made some [video content on React Hooks](https://youtu.be/8ejtnaOxXQE).
+
 
 I'm always open to new opportunities and collaborations in which I can harness my previously developed skills in growing a business, while further developing my new tech skills. I love being challenged by and learning from supportive, collaborative teammates in a friendly, creative and adventurous organisation. 
 
@@ -21,33 +23,41 @@ I greatly enjoy exploring potential solutions to problems by breaking them down 
 
 #### Clean code, make it work -> make it right 
 
-Makers Academy has equipped me with a working knowledge of the very best practices in modern software development.
+ My experience has equipped me with a working knowledge of best practices in modern software development.
 
-- Software development is not a solitary activity, but a team effort. I am a big fan of pair programming, which Makers Academy fully embraces as evidenced by the fact that throughout the course we were asked to pair with someone different every day. This helped me further develop strong teamworking and interpersonal skills in the context of coding.
-- I am constantly looking to expand my knowledge of Object-Oriented Programming, creating new systems using Behavior Driven Development, Test Driven Development and SOLID principles.
-- At Makers, I learned that development should be seen as a craft. Using the red, green, refactor model, working code is just the first step, refactoring for simplicity and to allow other developers to understand and extend my code without resorting to modification is a key consideration.
-- Most crucially, I have a great curiosity and passion for technology. I enjoy independent and exploratory learning as well as experimenting with new ideas and technologies as they arise in order to expand my skill set. Recently I have been experimenting with several different technologies to see how they can all fit together, building a [wordpress theme from a bootstrap3 tempalate](https://github.com/ric9176/bootstrap-to-wp-heroku) and deploying to Heroku, with S3 for images. 
+- Software development is not a solitary activity, but a team effort. I am a big fan of pair programming, something that LeanJS and RGA fully embraces as pairing with multiple team members (both developers and others) during any given day. This helped me further develop strong teamworking and interpersonal skills in the context of coding and leadership.
+- I am constantly looking to expand my technical knowledge, and I'm a keen advocate of Functional Programming as an approach, breaking down code in to well defined, performant and testable units.
+- I believe that development should be seen as a craft. Using the red, green, refactor model, working code is just the first step, refactoring for simplicity and to allow other developers to understand and extend code without resorting to modification is a key consideration. Well tested code is something I believe to be crucial in a production application with unit tests => integration tests => end to end tests implemented in all applications.
+- Most crucially, I have a great curiosity and passion for technology. I enjoy independent and exploratory learning as well as experimenting with new ideas and technologies as they arise in order to expand my skill set. Recently I have been focused on further expanding my knowledge of functional programming and it's practical implementations in JS appliactions, I've also been learning ReasonML and looking into Rust with an eye on the future as it has a complile story to WebAssembly. 
 
 #### Code Examples
 
 | Github | Description | Technologies | See it live
 |-------------|-------------|-------------|-------------|
-[Hotelligence web App](https://github.com/ric9176/hotel_check_in) [Ionic Native App](https://github.com/ric9176/Estimote) | Two week project with [Chris Wynne](https://github.com/wynndow), [Gimi Qehaja](https://github.com/gimi-q), [Ed Kerry](https://github.com/edwardkerry), using smartphones and beacons to speed up the hotel check-process, with real-time database integration | AngularJS, Firebase, Estimote Beacons, Cordova, Ionic, tested with Protractor and Karma-Jasmine | [YouTube](https://www.youtube.com/watch?v=63FJoC8dxus)
-[FilterCoffee](https://github.com/ric9176/filter_coffee) | A 3 day hackathon project with [Ed Kerry](https://github.com/edwardkerry), [Daniela Galeote](https://github.com/DanielaGSB), [Hamid Zadeh](https://github.com/genzade), a web app built on Rails to provide remote workers with a "YELP like" platform where they can add and rate work locations such as co-working spaces and cafe's. | Ruby on Rails, Active Record, Devise, Google Maps API, Bootstrap
-[Instagram Challenge](https://github.com/ric9176/instagram-challenge) | Interesting for the time contraints, the challenge was to re-create instagram over a weekend. | Ruby on Rails, ActiveRecord, Omni-Auth, AWS, Bootstrap, tested with Rspec and Capybara. 
-[Rock, Paper, Scissors](https://github.com/ric9176/rps-challenge) | A thrilling battle of wits against humanity's ancient enemy: **The Computer**. | Ruby, Sinatra, tested with RSpec and Capybara. 
+[React GraphQL Academy repo](https://github.com/reactgraphqlacademy/reactgraphqlacademy) | Training in the React and GraphQL ecosystems for professional developers | React, GatsbyJS, Serverless (google cloud functions) | [React GraphQL Academy](https://reactgraphql.academy/)
+[React GraphQL Academy materials](https://github.com/reactgraphqlacademy/fb-messenger) | These are the coding activites used during the course following presentations, each branch has a differenet README outlining the tasks | ModernJS, Core React, React Router, Data fetching, Forms & Auth, Styled Components, Redux, Advanced Redux, Advanced React patterns, Hooks, Testing, SSR, GraphQL. | Just run the app on a given branch! 
+
+### Please ask me directly for non-open source commercial project code examples as I may need to first edit due to NDA obligations.
 
 ## Relevant Experience 
 
-#### React GraphQL Academy (May 2017 - current)
+#### React GraphQL Academy - Organizer, developer & senior coach (May 2017 - current)
 
-#### LeanJS (May 2017 - current)
+[React GraphQL Academy](https://reactgraphql.academy/) is the leading provider of in person trainings for React and GraphQL in Europe.
 
-#### blue{shift} - Developer and JavaScript coach (october 2016 to 2017)
+As my primary role over the past year, I've been responsible for running the operation and business development of the Academy, working collaborativly with the wider team to implement enhancements to UX while expanding the offering to drive growth and market position.
+
+#### LeanJS - Developer and Decison maker (May 2017 - current)
+
+[LeanJS](https://leanjs.com/) in it's current iteration enables product teams to innovate rapidly via one week hands-on sprints across key technologies. Previously LeanJS worked with top clients as a tech consultancy to both advise on and co-build React and GraphQL projects. These spanned ranged from [Agni Magazine]() to [FingoPay](https://medium.com/leanjs/fingopay-meets-react-native-d1e89aeeb6f4) 
+
+I work as a Developer and Decision Maker, both leading and implementing projects in addition to business development and strategy.
+
+#### blue{shift} - Software Engineer and JavaScript coach (October 2016 to 2017)
 
 [blue{shift}](http://blueshiftcoding.com/) is West London’s premier coding school. Founded in 2013  with the aim of teaching children aged 5 to 15 a creative approach to coding. I currently develop and coach the JavaScript course at Seconday level and collaborate on developing a learning platform.
 
-#### Airsorted - Front-end engineer (December 2016 to Febuary 2017)
+#### Airsorted - Front-end Engineer (December 2016 to Febuary 2017)
 
 [Airsorted](http://airsorted.com/) makes hosting on Airbnb Hassle-free. They are an Airbnb management company using technology to create infrastructure for the fast-growing sharing community.
 
@@ -62,7 +72,7 @@ The core technologies used are: Node.JS, PHP (laravel), React, Angular, Ionic, a
 
 #### Founder of English Tutors Live (2013 to 2016)
 
-[EnglishTutorsLive](www.englishtutorslive.com) is an online English learning community that connects teachers and students looking for intensive and dynamic Skype English classes. Founder of the project, designed and implemented the ongoing web marketing plan based on knowledge of SEO copywriting and content optimization. Continuing to oversee and manage the growth of the online community and business direction.
+[EnglishTutorsLive](www.englishtutorslive.com) is an online English learning community that connects teachers and students looking for intensive and dynamic Skype English classes. Founder of the project, designed and implemented the  web marketing plan based on knowledge of SEO copywriting and content optimization in addition to all technical tasks. I oversaw and managed the growth of the online community and business direction while in operation. 
 
 #### Website Growth - Web Design & Internet Marketing Firm (2013 to 2015 - Los Angeles)
 
