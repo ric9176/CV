@@ -19,16 +19,16 @@ I'm always open to new opportunities and collaborations in which I can harness m
 I greatly enjoy exploring potential solutions to problems by breaking them down into their simplest form and iteratively building the most succinct solution using LEAN methodologies. 
 
 - I am a logical, calm thinker. When multiple, potentially interesting options are available, I am able to assess their suitability in solving the initial problem. This allows me to choose the best tools for the job.
-- I am persistent when facing adversity. Working across time zones and languages requires considerable flexibility and persistence. I have found this mind-set very applicable to code.
-- When facing a new problem, my first step and strongest ability is research. I especially excel at working in small teams to come up with creative solutions and ideas. Over my past experience including in SEO and marketing, I have developed excellent Google Foo -- proficiency with Googling specific technical issues and implementing solutions.
+- I am persistent when facing adversity. Working across time zones and languages requires considerable flexibility and persistence. I have found this mind-set very applicable to both coding and team management.
+- When facing a new problem, my first step and strongest ability is research. I especially excel at working with agile teams to come up with creative solutions and ideas. Over my past experience including in SEO and marketing, I have developed excellent Google Foo -- proficiency with Googling specific technical issues and implementing solutions.
 - Solving a problem, especially if I am able to help someone else along the way, can be even more satisfying than everything working right the first time! 
 
 #### Clean code, make it work -> make it right 
 
  My experience has equipped me with a working knowledge of best practices in modern software development.
 
-- Software development is not a solitary activity, but a team effort. I am a big fan of pair programming, something that LeanJS and RGA fully embrace, encouraging pairing with multiple team members (both developers and others) during any given day. This helped me further develop strong teamworking, communication and interpersonal skills in the context of coding and leadership.
-- I am constantly looking to expand my technical knowledge, and I'm a keen advocate of Functional Programming as an approach, breaking down code into well-defined, performant and testable units.
+- Software development is not a solitary activity, but a team effort. I am a big fan of pair programming, something I fully embrace, encouraging pairing with multiple team members (including developers, UX and product) during any given day. This has helped me further develop strong teamworking, communication and interpersonal skills in the context of coding and leadership.
+- I am constantly looking to expand my technical knowledge, I'm a keen advocate of Functional Programming as a basis for software products, breaking down code into well-defined, performant and testable units. I'm also keen on a dev ops first approach, builing infrafstruture as code and harnessing CI/CD to deliver incremental value into production at pace.
 - I believe that development should be seen as a craft. Using the red-green-refactor model as a guie, working code is just the first step. Refactoring for simplicity and to allow other developers to understand and extend code without resorting to modification is also a key consideration. Well-tested code is something I believe to be crucial in a production application with unit tests => integration tests => end-to-end tests implemented in all applications.
 - Most crucially, I have a great curiosity and passion for technology. I enjoy independent and exploratory learning as well as experimenting with new ideas and technologies as they arise in order to expand my skill set. Recently I have been focused on further expanding my knowledge of functional programming and its practical implementations in JS applications, I've also been learning ReasonML and looking into Rust with an eye on the future as it has a complile story to WebAssembly. 
 
