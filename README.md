@@ -1,14 +1,13 @@
 ## Richard Moss
 
-Digital Nomad and avid technologist, I have worked on a variety of projects with a diverse range of people, crossing technologies, languages, and continents. As a speaker of five languages and counting, I've been told I'm a great communicator and motivating to work with. 
+An avid technologist, I have worked on a variety of projects with a diverse range of people, crossing technologies, languages, and continents. As a speaker of five languages and counting, I've been told I'm a great communicator and motivating to work with. 
 
 
-As an entrepreneur passionate about teaching and mentoring, I founded an online English school in 2012, and since then jumped into the tech world as a software engineer in roles at a diverse range of startups before my current role running trainings and coaching professional developers with [React GraphQL Academy](https://reactgraphql.academy/)(RGA). As a software engineer I have become highly specialized in the React ecosystem and confident as a solution architect, having been the lead developer on several React projects such as Boston University’s renowned [AGNI journal](https://agnionline.bu.edu/). My expertise and stack preference is React -> GraphQL -> MongoDB / Firebase -> Serverless (Google Cloud), but I’m also proficient and have experience in many others in both JavaScript and other languages including (Ruby, Python, PHP), and always looking to expand. 
+As an entrepreneur passionate about teaching and mentoring, I founded an online English school in 2012, and since then jumped into the tech world as a software engineer in roles at a diverse range of companies before my current role as principal engineer at Sainsbury's Tech. Some key competencies I bring to my leadership role have been borne out in running trainings and coaching professional developers with [React GraphQL Academy](https://reactgraphql.academy/)(RGA), experience I carried into my current role by running company-wide trainings at Sainsbury's. As an experienced software engineer, I have solid experience of full-stack engineering and retain a particular level of specialization in the front-end space. In particular working within the React ecosystem, I'm a proficient solution architect, having previously been the lead developer on several React projects such as Boston University’s renowned [AGNI journal](https://agnionline.bu.edu/) and, more recently, leading the front-end practices and architecture in the Supplier Experience domain at Sainsbury's Tech. My technical expertise and stack preference is React -> GraphQL -> MongoDB / Firebase -> Serverless (GCP || AWS), but I’m also skilled and have varied experience in many other libaries/frameworks in JavaScript and other languages including Ruby, Python, PHP, ReasonML (and I'm always curious to explore others). 
 
-The last couple of years I've been a lead coach and organizer of the public trainings of RGA in addition to delivering onsite training for professional devs at top companies such as Nationwide, ASOS, Net-A-Porter to name but a few. During these I have both coached and advised developer leads on best practice patterns and implementations for React and its associated libraries. In addition to coaching and business development, I also lead the team on the build and technical implementation of both the branded site and materials for the in-person courses. I've worked with and helped build a team spanning marketing/UX, sales, analytics and developers, while also mentoring multiple junior devs and running the coach community. I love giving back to the developer community and co-run the [JavaScript Lisbon](https://www.meetup.com/JavaScript-Lisbon/) and [JavaScript London](https://www.meetup.com/JavaScript-London/) meetup in addition to speaking at events across Europe, including in the Netherlands, Croatia and Portugal, among others. I also write content on Medium and the [RGA blog](https://reactgraphql.academy/blog/) in my free time and have made some [video content on React Hooks](https://youtu.be/8ejtnaOxXQE).
+In my current role as a tech lead, I work both within and across teams, liasing with business stakeholders as well as product and XD teams to map requirements into scalable and maintainable technical solutions. In addition, I mentor several front-end engineers, organize and run knowledge-sharing sessions, and advocate for engineers and a tech-first approach within the wider business. I'm also passionate about interacting with and giving back to the wider developer community, and previously (before the pandemic) was heavily involved with running the [JavaScript Lisbon](https://www.meetup.com/JavaScript-Lisbon/) and [JavaScript London](https://www.meetup.com/JavaScript-London/) meetups in addition to speaking at events across Europe, such as the Netherlands, Croatia and Portugal, among others. I have also written content on Medium and the [RGA blog](https://reactgraphql.academy/blog/) in my free time, and have made some [video content on React Hooks](https://youtu.be/8ejtnaOxXQE). To reinforce my leadership and management experience, I also recently completed Oxford University's Executive Leadership Program through the Saïd Business School.
 
-
-I'm always open to new opportunities and collaborations in which I can harness my previously developed skills in growing a business, while further developing new tech skills. I love being challenged by and learning from supportive, collaborative teammates in a friendly, creative and adventurous organisation. 
+I'm always open to new opportunities and collaborations in which I can harness my previously developed skills in growing a business of any size, while further developing new tech skills. I love being challenged by and learning from supportive, collaborative teammates in a friendly, creative, and adventurous organisation. 
 
 
 
@@ -18,8 +17,8 @@ I'm always open to new opportunities and collaborations in which I can harness m
 
 I greatly enjoy exploring potential solutions to problems by breaking them down into their simplest form and iteratively building the most succinct solution using LEAN methodologies. 
 
-- I am a logical, calm thinker. When multiple, potentially interesting options are available, I am able to assess their suitability in solving the initial problem. This allows me to choose the best tools for the job.
-- I am persistent when facing adversity. Working across time zones and languages requires considerable flexibility and persistence. I have found this mind-set very applicable to both coding and team management.
+- As a logical, calm thinker, when multiple, potentially interesting options are available, I am able to assess their suitability in solving the initial problem. This allows me to choose the best tools for the job.
+- I am persistent when facing adversity. Working across time zones and languages, as well as managing teams working remotely, requires considerable flexibility and persistence. I have found this mind-set very applicable to both coding and team management.
 - When facing a new problem, my first step and strongest ability is research. I especially excel at working with agile teams to come up with creative solutions and ideas. Over my past experience including in SEO and marketing, I have developed excellent Google Foo -- proficiency with Googling specific technical issues and implementing solutions.
 - Solving a problem, especially if I am able to help someone else along the way, can be even more satisfying than everything working right the first time! 
 
@@ -97,10 +96,18 @@ Working remotely with a range of responsibilities:
 
 ## Education
 
+#### Oxford Saïd Business School (2020) - Executive Leadership Program
+
+- A refined understanding of leadership purpose and how to align it with organizational purpose
+- Frameworks and leadership skills needed to overcome modern workplace challenges and manage teams effectively
+- Strategies for driving change and preparing organisations for the future
+- Guidance from leading industry experts and Oxford Saïd faculty
+
 #### Makers Academy (Nov 2015 to Feb 2016)
 
-- Intensive 12-week course at Europe's leading Web Developer bootcamp  
-- Weekly paired-programming curriculum with individual weekend challenges
+- Intensive 12-week course at Europe's leading Web Developer bootcamp
+- Industry best practice, focus on agile, XP and TDD methodologies, working with OOP frameworks and languages.
+- Weekly paired-programming project based curriculum with individual weekend challenges
 
 #### University of Madrid (2008-2013) (Universidad Complutense de Madrid)
 
@@ -120,7 +127,7 @@ Working remotely with a range of responsibilities:
 #### Other qualifications
 
 - CELTA (Cambridge certificate in English Language Teaching) 
-- Multiple Cousera certificates (I'm a big fan of e-learning)
+- Multiple Cousera and other online course certificates (I'm a big fan of e-learning)
 - RYA dingy instructor (Once upon a time, I taught sailing)
 
 
