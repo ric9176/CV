@@ -51,20 +51,20 @@ Collaborating across engineering teams to deliver tech-focused solutions to busi
 
 [React GraphQL Academy](https://reactgraphql.academy/) is the leading provider of in person trainings for React and GraphQL in Europe.
 
-As my primary role over the past year, I've been responsible for running the operation and business development of the academy, working collaborativly with the wider team to implement enhancements to UX while expanding the offering to drive growth and market position.
+Responsible for running the operation and business development of the academy, working collaborativly with the wider team to implement enhancements to UX while expanding the offering to drive growth and market position.
 
 #### LeanJS - Developer and Decison maker (May 2017 - September 2019)
 
-[LeanJS](https://leanjs.com/) in it's current iteration enables product teams to innovate rapidly via one week hands-on sprints across key technologies. Previously LeanJS worked with top clients as a tech consultancy to both advise on and co-build React and GraphQL projects. These spanned ranged from [Agni Magazine]() to [FingoPay](https://medium.com/leanjs/fingopay-meets-react-native-d1e89aeeb6f4). 
+[LeanJS](https://leanjs.com/) in it's current iteration enables product teams to innovate rapidly via one week hands-on sprints across key technologies. Previously LeanJS worked with top clients as a tech consultancy to both advise on and co-build React and GraphQL projects. These ranged from [Agni Magazine](https://agnionline.bu.edu/) on which I was the lead developer, to consulting on projects such as [FingoPay](https://medium.com/leanjs/fingopay-meets-react-native-d1e89aeeb6f4). 
 
-I work as a developer and decision maker, both leading and implementing projects in addition to business development and strategy.
+I worked as a developer and decision maker, later becoming a partner, leading and implementing projects in addition to contributing on business development and strategy.
 
 Core technologies include: JavaScript, React, Redux, GraphQL (client and server), MongoDB, Serverless architectures (Google Cloud)
 
 
 #### blue{shift} - Software Engineer and JavaScript coach (October 2016 to 2017)
 
-[blue{shift}](http://blueshiftcoding.com/) is West London’s premier coding school. Founded in 2013  with the aim of teaching children aged 5 to 15 a creative approach to coding. I developed and coached the JavaScript course at Seconday level and collaborated on developing a learning platform.
+[blue{shift}](http://blueshiftcoding.com/) is West London’s premier coding school. Founded in 2013  with the aim of teaching children aged 5 to 15 a creative approach to coding. I developed and coached the JavaScript course at Seconday level and lead on the development of a new web experience and nascent learning platform.
 
 Core technologies include: Python Flast, Python, JavaScript
 
