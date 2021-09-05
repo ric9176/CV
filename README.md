@@ -53,6 +53,8 @@ Core technologies: Typescript, NestJS, GraphQL, Postgres, MongoDB, AWS, Kafka
 
 Collaborating across engineering teams to deliver tech-focused solutions to business problems, leading on front-end practices and architecture, hiring, mentoring, and coaching engineers, advocating agile practices, and helping develop and build Sainsbury's tech function.
 
+Core technologies: Typescript, React, GraphQL, Node, Postgres, AWS, Kafka, Micro services
+
 #### React GraphQL Academy - Organizer, developer & senior coach (May 2017 - September 2019)
 
 [React GraphQL Academy](https://reactgraphql.academy/) is the leading provider of in person trainings for React and GraphQL in Europe.
