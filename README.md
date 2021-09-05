@@ -43,7 +43,13 @@ I greatly enjoy exploring potential solutions to problems by breaking them down 
 
 ## Relevant Experience 
 
-#### Sainsbury's Tech - Principal Software Engineer (September 2019 - Current)
+#### Sainsbury's Tech - Software Engineering Manager (July 2020 - Current)
+
+Leading the shared services team in delivering an event based micro services architecture that supports downstream tech teams in accessing data within the commercial domain.
+
+Core technologies: Typescript, NestJS, GraphQL, Postgres, MongoDB, AWS, Kafka
+
+#### Sainsbury's Tech - Principal Software Engineer (September 2019 - July 2020)
 
 Collaborating across engineering teams to deliver tech-focused solutions to business problems, leading on front-end practices and architecture, hiring, mentoring, and coaching engineers, advocating agile practices, and helping develop and build Sainsbury's tech function.
 
