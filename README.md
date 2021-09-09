@@ -46,13 +46,13 @@ I greatly enjoy exploring potential solutions to problems by breaking them down 
 
 #### Sainsbury's Tech - Software Engineering Manager (July 2020 - Current)
 
-Leading the shared services team in delivering an event based micro services architecture that supports downstream tech teams in accessing data within the commercial domain. I currently manage a team of 8, primarily consisting of React/Node developers supported by dev ops and SDET colleagues. 
+Leading the shared services team in delivering an event based micro services architecture that supports downstream tech teams in accessing data within the commercial domain. I currently manage a team of 8, consisting of React/Node developers supported by dev ops and SDET colleagues. 
 
 Core technologies: Typescript, React, NestJS (Node), GraphQL, Postgres, MongoDB, AWS, Kafka
 
 #### Sainsbury's Tech - Principal Software Engineer (September 2019 - July 2020)
 
-Collaborating across engineering teams to deliver tech-focused solutions to business problems, leading on front-end practices and architecture, hiring, mentoring, and coaching engineers, advocating agile practices, and helping develop and build Sainsbury's tech function. Harnessing my expertise in the React ecosystem, I was particually focused on developing the capabilities of front end engineers in product teams across the domain and brining other senior engineers together to drive strategic tech initiatives.
+Collaborating across engineering teams to deliver tech-focused solutions to business problems, leading on front-end practices and architecture, hiring, mentoring, and coaching engineers, advocating agile practices, and helping develop and build Sainsbury's tech function. Harnessing my expertise in the React ecosystem, I was particularly focused on developing the capabilities of front end engineers in product teams across the domain and bringing senior engineers together to drive strategic tech initiatives.
 
 Core technologies: Typescript, React, GraphQL, Node, Postgres, AWS, Kafka, Micro services
 
@@ -60,13 +60,13 @@ Core technologies: Typescript, React, GraphQL, Node, Postgres, AWS, Kafka, Micro
 
 [React GraphQL Academy](https://reactgraphql.academy/) is a leading provider of in person trainings for React and GraphQL in Europe.
 
-Responsible for running the operation and business development of the academy, working collaborativly with the team to implement functional enhancements to the web user experience while expanding the offering to drive growth and market position. Over the course of my tenure, the coach team grew to 6, offering trainings in London, Amsterdam and Lisbon. In addition the core LeanJS engineering team built and delivered an in-house learning platform in order to allow coaches to self organize courses and gain continuous feedback on student progress and satisfaction.
+Responsible for running the operation and business development of the academy, working collaboratively with the team to implement functional enhancements to the web user experience while expanding the offering to drive growth and market position. Over the course of my tenure, I managed and grew a coach team of 6, offering trainings in London, Amsterdam and Lisbon. In addition, the core LeanJS engineering team built and delivered an in-house learning platform that allowed coaches to self-organize courses and receive continuous feedback on student progress and satisfaction.
 
-#### LeanJS - Hands on Engineering Manager & Partner (May 2017 - September 2019)
+#### LeanJS - Hands-on Engineering Manager & Partner (May 2017 - September 2019)
 
-[LeanJS](https://leanjs.com/) in it's current iteration enables product teams to innovate rapidly via one week hands-on sprints across key technologies. Previously LeanJS worked with top clients as a tech consultancy to both advise on and co-build React/Node and GraphQL projects. These ranged from [Agni Magazine](https://agnionline.bu.edu/) on which I was the lead developer and project manager, to consulting on projects such as [FingoPay](https://medium.com/leanjs/fingopay-meets-react-native-d1e89aeeb6f4). 
+[LeanJS](https://leanjs.com/) enables product teams to innovate rapidly via one-week hands-on sprints across key technologies. Previously, LeanJS worked with top clients as a tech consultancy to both advise on and co-build React/Node and GraphQL projects. These ranged from building [Agni Magazine's site](https://agnionline.bu.edu/), on which I was the lead developer and project manager, to consulting on numerous projects, for example [FingoPay](https://medium.com/leanjs/fingopay-meets-react-native-d1e89aeeb6f4). 
 
-I worked as a hands on senior software engineer and manager of a dev team as it grew, later becoming a partner, leading and implementing projects in addition to contributing on business development and strategy. The core was a cross functional team of React/Node developers in addtion to UX and product.
+The core, cross-functional team consists of React/Node developers in addition to UX and product. Starting as a senior software engineer and hands-on manager of a growing dev team, I later became a partner, leading and implementing projects as well as contributing on business development and strategy. 
 
 Core technologies include: JavaScript, React, Node, GraphQL (client and server), MongoDB, GCP.
 
