@@ -44,7 +44,7 @@ I greatly enjoy exploring potential solutions to problems by breaking them down 
 
 ## Relevant Experience 
 
-#### Sainsbury's Tech - Software Engineering Manager (July 2020 - Current)
+#### Sainsbury's Tech - Software Engineering Manager (July 2021 - Current)
 
 Leading the shared services team in delivering an event based micro services architecture that supports downstream tech teams in accessing data within the commercial domain. I currently manage a team of 8, consisting of React/Node developers supported by dev ops and SDET colleagues. 
 
