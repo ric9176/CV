@@ -50,7 +50,7 @@ Leading the shared services team in delivering an event based micro services arc
 
 Core technologies: Typescript, React, NestJS (Node), GraphQL, Postgres, MongoDB, AWS, Kafka
 
-#### Sainsbury's Tech - Principal Software Engineer (September 2019 - July 2020)
+#### Sainsbury's Tech - Principal Software Engineer (September 2019 - July 2021)
 
 Collaborating across engineering teams to deliver tech-focused solutions to business problems, leading on front-end practices and architecture, hiring, mentoring, and coaching engineers, advocating agile practices, and helping develop and build Sainsbury's tech function. Harnessing my expertise in the React ecosystem, I was particularly focused on developing the capabilities of front end engineers in product teams across the domain and bringing senior engineers together to drive strategic tech initiatives.
 
