@@ -2,11 +2,13 @@
 
 An avid technologist, I thrive in leadership positions and have worked on a variety of projects with a diverse range of people, crossing technologies, languages, and continents. As a speaker of five languages and counting, I've been told I'm a great communicator and motivating to work with.
 
-In my current role as a Software Engineering Manager at [Sainsbury's Tech](https://www.linkedin.com/company/sainsburysdtd), I lead the shared services team in delivering an event-driven micro-services solution to ultimately replace a legacy monolith. The team, which consists of 8 core members, has broad responsibility to provide access to the data that underpins many of the downstream product teams within the commercial domain.
+In my current role as a Software Development Manager at [Zapp](https://tryzapp.com/), I lead the consumer facing core team in developing and maintaing the native mobile application used by thousands of customers everyday. 
 
-My main focus as an engineering manager is to support and coach engineers both in my immediate team and across the domain through participatory leadership, liasing with business stakeholders as well as product and XD teams to map requirements into scalable and maintainable technical solutions. Bridging the gap between tech teams and non-technical stakeholders is a challenge I relish. Additionally I advocate for engineers and a tech-first, agile practices approach within the business. To reinforce my leadership and management experience, in 2020 I completed [Oxford University's Executive Leadership Programme](https://www.sbs.ox.ac.uk/programmes/executive-education/online-programmes/oxford-executive-leadership-programme) through the Oxford Saïd Business School.
+My main focus as an engineering manager is to support and coach engineers both in my immediate team and across the domain through participatory leadership, liasing with business stakeholders as well as product and XD teams to map requirements into scalable and maintainable technical solutions. Bridging the gap between tech teams and non-technical stakeholders is a challenge I relish. Additionally I advocate for engineers and a tech-first, agile practices approach within the business. 
 
-I'm also passionate about giving back to the wider developer community, and have been helping run the [JavaScript Lisbon](https://www.meetup.com/JavaScript-Lisbon/) and [JavaScript London](https://www.meetup.com/JavaScript-London/) meetups, in addition to speaking at events across Europe--such as the Netherlands, Croatia and Portugal, among others. I've contributed extensively over the past years to JavaScript and React educational content on both Medium and the [RGA blog](https://reactgraphql.academy/blog/) in my spare time, and continue to run community workshops at events such as [React Summit](https://remote.reactsummit.com/workshops-3h). 
+To reinforce my leadership and management experience, in 2020 I completed [Oxford University's Executive Leadership Programme](https://www.sbs.ox.ac.uk/programmes/executive-education/online-programmes/oxford-executive-leadership-programme) through the Oxford Saïd Business School.
+
+I'm also passionate about giving back to the wider developer community, have been the co-organiser of the [JavaScript London](https://www.meetup.com/JavaScript-London/) meetup group since 2016. In addition I've presented tech talks and workshops at events across Europe such as [React Summit](https://remote.reactsummit.com/workshops-3h). I've contributed extensively over the past years to JavaScript and React educational content on both Medium and the [RGA blog](https://reactgraphqlacademy.web.app/blog/) in my spare time, and continue to run community workshops and events.
 
 
 I'm always open to new opportunities in which I can harness my skills in managing and scaling tech teams that underpin businesses, while further developing new leadership and tech skills. I love being challenged by and learning from supportive, collaborative teammates in a friendly, creative, and ambitious organisation. 
@@ -44,7 +46,11 @@ I greatly enjoy exploring potential solutions to problems by breaking them down 
 
 ## Relevant Experience 
 
-#### Sainsbury's Tech - Software Engineering Manager (July 2021 - Current)
+#### Zapp - Software Development Manager (Feb 2022 - Current)
+
+Leading the consumer facing core team in developing and maintaing the primary native mobile application.
+
+#### Sainsbury's Tech - Software Engineering Manager (July 2021 - Jan 2022)
 
 Leading the shared services team in delivering an event based micro services architecture that supports downstream tech teams in accessing data within the commercial domain. I currently manage a team of 8, consisting of React/Node developers supported by dev ops and SDET colleagues. 
 
@@ -58,7 +64,7 @@ Core technologies: Typescript, React, GraphQL, Node, Postgres, AWS, Kafka, Micro
 
 #### React GraphQL Academy - Operations Lead & Senior Coach (May 2017 - September 2019)
 
-[React GraphQL Academy](https://reactgraphql.academy/) is a leading provider of in person trainings for React and GraphQL in Europe.
+[React GraphQL Academy](https://reactgraphqlacademy.web.app/) was a leading provider of in person trainings for React and GraphQL in Europe.
 
 Responsible for running the operation and business development of the academy, working collaboratively with the team to implement functional enhancements to the web user experience while expanding the offering to drive growth and market position. Over the course of my tenure, I managed and grew a coach team of 6, offering trainings in London, Amsterdam and Lisbon. In addition, the core LeanJS engineering team built and delivered an in-house learning platform that allowed coaches to self-organize courses and receive continuous feedback on student progress and satisfaction.
 
