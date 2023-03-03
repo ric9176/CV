@@ -48,6 +48,10 @@ I greatly enjoy exploring potential solutions to problems by breaking them down 
 
 #### Megasets - [Contract] - Front end solutions architect and tech lead (Dec 2022 - current)
 
+Leading the implementation of the front end solution.
+
+Core technologies: React, Gatsby
+
 #### Zapp - Software Development Manager (Feb 2022 - Nov 2022)
 
 Leading the consumer facing core team in developing and maintaing the primary native mobile application.
