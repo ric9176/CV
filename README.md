@@ -46,9 +46,13 @@ I greatly enjoy exploring potential solutions to problems by breaking them down 
 
 ## Relevant Experience 
 
-#### Zapp - Software Development Manager (Feb 2022 - Current)
+#### Megasets - [Contract] - Front end solutions architect and tech lead (Dec 2022 - current)
+
+#### Zapp - Software Development Manager (Feb 2022 - Nov 2022)
 
 Leading the consumer facing core team in developing and maintaing the primary native mobile application.
+
+Core technologies: Typescript, React Native, GraphQL, Firebase, GCP
 
 #### Sainsbury's Tech - Software Engineering Manager (July 2021 - Jan 2022)
 
