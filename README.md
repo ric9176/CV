@@ -43,6 +43,10 @@ My experience has equipped me with a working knowledge of best practices in mode
 
 ## Relevant Experience
 
+#### PowerModeAI - [Startup] - Founder and technical lead. [PowerModeAI](https://powermodeai.com/) is an AI assisted idea and pitch deck generator, the product is being developed more broadly to address the problem space of helping with structuring the story and message in a presentation in addition to delivery and confidence.
+
+Core technologies: React, TypeScript, Firebase, Google cloud platform, OpenAI API and prompt engineering.
+
 #### Megasets - [Contract] - Front end solutions architect and tech lead (Dec 2022 - current)
 
 Leading the implementation of the front end solution.
