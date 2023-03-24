@@ -2,7 +2,7 @@
 
 An avid technologist, I thrive in leadership positions and have worked on a variety of projects with a diverse range of people, crossing technologies, languages, and continents. As a speaker of five languages and counting, I've been told I'm a great communicator and motivating to work with.
 
-In my current role as a Software Development Manager at [Zapp](https://tryzapp.com/), I lead the consumer facing core team in developing and maintaing the native mobile application used by thousands of customers everyday.
+In my recent role as a Software Development Manager at [Zapp](https://tryzapp.com/), I led the consumer facing core team in developing and maintaing the native mobile application used by thousands of customers everyday.
 
 My main focus as an engineering manager is to support and coach engineers both in my immediate team and across the domain through participatory leadership, liasing with business stakeholders as well as product and XD teams to map requirements into scalable and maintainable technical solutions. Bridging the gap between tech teams and non-technical stakeholders is a challenge I relish. Additionally I advocate for engineers and a tech-first, agile practices approach within the business.
 
